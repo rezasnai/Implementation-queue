@@ -309,7 +309,7 @@ void intro(){
           "*      2.Seyed Saeid Heidari            *"<<endl<<
           "*      3.Omid Rahimi                    *"<<endl<<
           "*      4.Ali Afroozi                    *"<<endl<<
-          "*      Queue implementation Project     *"<<endl;
+          "*      Implement queue with linked list *"<<endl;
     cout<<"========================================="<<endl;
 }
 
@@ -381,5 +381,7 @@ int main()
     // n el ==> n*(node.size) ==> O(n)
     return 0;
 }
+//github link https://github.com/rezasnai/Implemention-queue
+
 
 
